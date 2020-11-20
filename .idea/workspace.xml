@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4271a6-0b3c-401e-855f-9204229fcf6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="a3a97294-16b7-4343-adae-90d0890673b3" name="apache2 - localhost" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1kZAiBwoxK2rKjglFdZk1DyOsYW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/var/www/html" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="apache2 - localhost">
+      <method v="2">
+        <option name="FtpUpload" enabled="true">
+          <server_id>5cdecf57-5b8a-45b7-8a37-039a2be57ee8</server_id>
+          <server_name>apache</server_name>
+          <group_name />
+          <path>$PROJECT_DIR$</path>
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4271a6-0b3c-401e-855f-9204229fcf6e" name="Default Changelist" comment="" />
+      <created>1605897866583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605897866583</updated>
+      <workItem from="1605897868167" duration="5451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="196" key="#Deployment" timestamp="1605898382291">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="559" y="196" key="#Deployment/0.0.1920.1044@0.0.1920.1044" timestamp="1605898382291" />
+    <state x="547" y="193" key="#Servers" timestamp="1605898158729">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="547" y="193" key="#Servers/0.0.1920.1044@0.0.1920.1044" timestamp="1605898158729" />
+    <state x="424" y="180" width="1071" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605898393463">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="424" y="180" width="1071" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1605898393463" />
+    <state x="860" y="403" key="FileChooserDialogImpl" timestamp="1605898380901">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="860" y="403" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1605898380901" />
+    <state x="782" y="448" key="NewPhpFileDialog" timestamp="1605901591288">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="782" y="448" key="NewPhpFileDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1605901591288" />
+    <state x="792" y="415" width="559" height="238" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1605898387347">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="792" y="415" width="559" height="238" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1605898387347" />
+  </component>
+</project>
